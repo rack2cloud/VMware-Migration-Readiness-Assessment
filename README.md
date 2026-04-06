@@ -273,6 +273,8 @@ This script is fully open source. Every line is reviewable. There are no obfusca
 
 If you identify a data collection concern or a bug, open an issue or submit a PR.
 
+View the full source: [github.com/rack2cloud/VMware-Migration-Readiness-Assessment](https://github.com/rack2cloud/VMware-Migration-Readiness-Assessment)
+
 ---
 
 ## License
